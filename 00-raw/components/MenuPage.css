@@ -33,7 +33,7 @@ ul {
     padding-bottom: 10px;
 }
 
-article { 
+article {
     background-color: white;
     margin-bottom: 16px;
     padding-bottom: 1px;
@@ -53,17 +53,14 @@ article section {
     display: flex;
 }
 
-
-
-
 h4 {
     margin: 8px 0 0 12px;
-    color: #333D29;
+    color: #333d29;
     font-size: 18px;
     font-weight: bold;
 }
 
 .price {
     margin: 0px 0 0px 12px;
-    color: #B08968
+    color: #b08968;
 }

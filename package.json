@@ -1,15 +1,18 @@
 {
-  "name": "js-fem_vanilla_js_you_might_not_need_a_framework",
-  "version": "1.0.0",
-  "description": "This is a follow-along repository from frontend master's course: \"Vanilla JS: You Might Not Need A Framework\".",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "volta": {
-    "node": "18.18.2",
-    "npm": "10.2.0"
-  }
+    "name": "js-fem_vanilla_js_you_might_not_need_a_framework",
+    "version": "1.0.0",
+    "description": "This is a follow-along repository from frontend master's course: \"Vanilla JS: You Might Not Need A Framework\".",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "volta": {
+        "node": "18.18.2",
+        "npm": "10.2.0"
+    },
+    "devDependencies": {
+        "prettier": "^3.0.3"
+    }
 }
